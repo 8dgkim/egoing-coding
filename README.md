@@ -13,6 +13,6 @@ Tensorflow.js \
 WEB2 - PHP \
 WEB2 - Node.js \
 React \
-Oracle Database \
+Oracle Database
 
 
