@@ -1,25 +1,43 @@
 # 생활코딩 
 
-Finished:
-WEB1 - HTML \
+## Folder Classification
+
+### Finished
+
+--WEB1-- \
+WEB1 - HTML
+
+--WEB2-- \
 WEB2 - CSS \
 WEB2 - JavaScript
 
-Planned:
+### In Progress
+
+--WEB2-NodeJS-- \
+WEB2 - Node.js \
+3.1
+
+--JS-OOP-- \
+JavaScript Object Oriented Programming \
+3.1
+
+--React-- (folder not created yet) \
+React \
+1
+
+
+## Plan
 
 --JavaScript-- \
-JavaScript Object Oriented Programming \
-React \
-p5.js \
-WEB2 - Node.js
+p5.js
+
+--Server-- \
+WEB2 - PHP
 
 --Python-- \
 생활코딩 Python 입문수업 \
 Python 제어문 \
 WEB2 - Python
-
---WEB-- \
-WEB2 - PHP
 
 --Machine Learning & Deep Learning-- \
 Machine learning 1 \
@@ -39,4 +57,6 @@ GIT3 - CLI 브랜치 & 충돌
 
 --AWS-- \
 AWS1
+
+
 
