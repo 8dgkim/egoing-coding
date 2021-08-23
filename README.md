@@ -7,15 +7,36 @@ WEB2 - JavaScript
 
 Planned:
 
+--JavaScript-- \
+JavaScript Object Oriented Programming \
+React \
+p5.js \
+WEB2 - Node.js
+
+--Python-- \
+생활코딩 Python 입문수업 \
+Python 제어문 \
+WEB2 - Python \
+
+--WEB-- \
+WEB2 - PHP
+
+--Machine Learning & Deep Learning-- \
+Machine learning 1 \
+Tensorflow.js
+
+--Database-- \
+관계형 데이터 모델링 \
 DATABASE2 - MySQL \
 Oracle Database
 
-WEB2 - PHP \
-WEB2 - Node.js
+--Linux-- \
+리눅스 \
+POSIX CLI1
 
-Tensorflow.js \
-Machine learning 1
+--Git-- \
+GIT3 - CLI 브랜치 & 충돌
 
-React
+--AWS-- \
+AWS1
 
-관계형 데이터 모델링
