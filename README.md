@@ -16,7 +16,7 @@ WEB2 - Node.js
 --Python-- \
 생활코딩 Python 입문수업 \
 Python 제어문 \
-WEB2 - Python \
+WEB2 - Python
 
 --WEB-- \
 WEB2 - PHP
