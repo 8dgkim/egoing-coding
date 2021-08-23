@@ -19,7 +19,7 @@ WEB2 - Node.js \
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
-3.1
+7.1
 
 --React-- (folder not created yet) \
 React \
