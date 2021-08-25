@@ -11,6 +11,10 @@ WEB1 - HTML
 WEB2 - CSS \
 WEB2 - JavaScript
 
+--(no folder)-- \
+POSIX CLI1
+
+
 ### In Progress
 
 --WEB2-NodeJS-- \
@@ -19,7 +23,7 @@ WEB2 - Node.js \
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
-7.1
+13.4
 
 --React-- (folder not created yet) \
 React \
@@ -50,7 +54,6 @@ Oracle Database
 
 --Linux-- \
 리눅스 \
-POSIX CLI1
 
 --Git-- \
 GIT3 - CLI 브랜치 & 충돌
