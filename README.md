@@ -12,22 +12,27 @@ WEB2 - CSS \
 WEB2 - JavaScript
 
 --(no folder)-- \
-POSIX CLI1
+POSIX CLI1 \
+Machine learning 1
 
 
 ### In Progress
 
 --WEB2-NodeJS-- \
 WEB2 - Node.js \
-3.1
+22.
+
+--Linux-- \
+리눅스 \
+-sudo
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
-13.4
+13.4.
 
 --React-- (folder not created yet) \
 React \
-1
+1.
 
 
 ## Plan
@@ -44,7 +49,6 @@ Python 제어문 \
 WEB2 - Python
 
 --Machine Learning & Deep Learning-- \
-Machine learning 1 \
 Tensorflow.js
 
 --Database-- \
@@ -52,14 +56,10 @@ Tensorflow.js
 DATABASE2 - MySQL \
 Oracle Database
 
---Linux-- \
-리눅스 \
 
 --Git-- \
 GIT3 - CLI 브랜치 & 충돌
 
 --AWS-- \
 AWS1
-
-
 
