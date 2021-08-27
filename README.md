@@ -24,7 +24,7 @@ WEB2 - Node.js \
 
 --Linux-- \
 리눅스 \
--sudo
+-file download : wget
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
