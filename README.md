@@ -20,7 +20,7 @@ Machine learning 1
 
 --WEB2-NodeJS-- \
 WEB2 - Node.js \
-22.
+24.
 
 --Linux-- \
 리눅스 \
