@@ -20,7 +20,7 @@ Machine learning 1
 
 --WEB2-NodeJS-- \
 WEB2 - Node.js \
-24.
+35.
 
 --Linux-- \
 리눅스 \
@@ -55,7 +55,6 @@ Tensorflow.js
 관계형 데이터 모델링 \
 DATABASE2 - MySQL \
 Oracle Database
-
 
 --Git-- \
 GIT3 - CLI 브랜치 & 충돌
