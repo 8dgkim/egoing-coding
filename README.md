@@ -11,6 +11,9 @@ WEB1 - HTML
 WEB2 - CSS \
 WEB2 - JavaScript
 
+--WEB2-NodeJS-- \
+WEB2 - Node.js \
+
 --(no folder)-- \
 POSIX CLI1 \
 Machine learning 1
@@ -18,11 +21,8 @@ Machine learning 1
 
 ### In Progress
 
---WEB2-NodeJS-- \
-WEB2 - Node.js \
-35.
 
---Linux-- \
+--Linux-- (no folder) \
 리눅스 \
 -file download : wget
 
@@ -30,14 +30,11 @@ WEB2 - Node.js \
 JavaScript Object Oriented Programming \
 13.4.
 
---React-- (folder not created yet) \
-React \
-1.
-
 
 ## Plan
 
 --JavaScript-- \
+React \
 p5.js
 
 --Server-- \
