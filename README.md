@@ -21,7 +21,6 @@ Machine learning 1
 
 ### In Progress
 
-
 --Linux-- (no folder) \
 리눅스 \
 -file download : wget
@@ -30,12 +29,14 @@ Machine learning 1
 JavaScript Object Oriented Programming \
 13.4.
 
+--react-practice-- \
+React \
+
+--p5js-- \
+p5.js
+
 
 ## Plan
-
---JavaScript-- \
-React \
-p5.js
 
 --Server-- \
 WEB2 - PHP
