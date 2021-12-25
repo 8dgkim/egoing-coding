@@ -16,14 +16,15 @@ WEB2 - Node.js
 
 --(no folder)-- \
 POSIX CLI1 \
-Machine learning 1
+Machine learning 1 \
+암호학
 
 
 ### In Progress
 
---Linux-- (no folder) \
+--(no folder)-- \
 리눅스 \
--file download : wget
+-
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
@@ -31,7 +32,7 @@ JavaScript Object Oriented Programming \
 
 --react-practice-- \
 React \
-13.
+19.2.
 
 --p5js-- \
 p5.js
@@ -40,11 +41,10 @@ p5.js
 ## Plan
 
 --Server-- \
-WEB2 - PHP
+WEB2 - PHP \
+Server Side JavaScript
 
 --Python-- \
-생활코딩 Python 입문수업 \
-Python 제어문 \
 WEB2 - Python
 
 --Machine Learning & Deep Learning-- \
@@ -53,7 +53,6 @@ Tensorflow.js
 --Database-- \
 관계형 데이터 모델링 \
 DATABASE2 - MySQL \
-Oracle Database
 
 --Git-- \
 GIT3 - CLI 브랜치 & 충돌
