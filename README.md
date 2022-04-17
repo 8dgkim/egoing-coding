@@ -23,8 +23,8 @@ Machine learning 1 \
 ### In Progress
 
 --(no folder)-- \
-리눅스 \
--
+리눅스
+
 
 --JS-OOP-- \
 JavaScript Object Oriented Programming \
