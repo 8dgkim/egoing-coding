@@ -17,22 +17,22 @@ POSIX CLI1 \
 Machine learning 1 \
 암호학
 
+### react-practice
+React (replaced)
+
 
 ## In Progress
 
 ### no specified directory
 리눅스
 
+### react
+React 2022 \
+3.
+
 ### JS-OOP
 JavaScript Object Oriented Programming \
 13.4.
-
-### react-practice
-React \
-19.2.
-
-### p5js
-p5.js
 
 
 ## Plan
@@ -57,3 +57,5 @@ GIT3 - CLI 브랜치 & 충돌
 ### AWS
 AWS1
 
+### p5js
+p5.js
