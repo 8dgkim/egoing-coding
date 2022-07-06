@@ -20,20 +20,16 @@ Machine learning 1 \
 ### react-practice
 React (replaced)
 
+### react-app
+React 2022
 
 ## In Progress
 
 ### no specified directory
 리눅스
 
-### react
-React 2022 \
-3.
-
-### JS-OOP
-JavaScript Object Oriented Programming \
-13.4.
-
+### Machine Learning & Deep Learning
+Tensorflow.js
 
 ## Plan
 
@@ -44,12 +40,12 @@ Server Side JavaScript
 ### Python
 WEB2 - Python
 
-### Machine Learning & Deep Learning
-Tensorflow.js
-
 ### Database
 관계형 데이터 모델링 \
 DATABASE2 - MySQL \
+
+### JS-OOP
+JavaScript Object Oriented Programming
 
 ### Git
 GIT3 - CLI 브랜치 & 충돌
