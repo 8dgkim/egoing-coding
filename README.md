@@ -23,6 +23,9 @@ React (replaced)
 ### react-app
 React 2022
 
+### nextjs
+Next.js
+
 ## In Progress
 
 ### no specified directory
