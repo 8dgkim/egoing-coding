@@ -12,11 +12,6 @@ WEB2 - JavaScript
 ### WEB2-NodeJS
 WEB2 - Node.js
 
-### no specified directory
-POSIX CLI1 \
-Machine learning 1 \
-암호학
-
 ### react-practice
 React (replaced)
 
@@ -25,6 +20,11 @@ React 2022
 
 ### nextjs
 Next.js
+
+### no specified directory
+POSIX CLI1 \
+Machine learning 1 \
+암호학
 
 ## In Progress
 
