@@ -45,7 +45,7 @@ WEB2 - Python
 
 ### Database
 관계형 데이터 모델링 \
-DATABASE2 - MySQL \
+DATABASE2 - MySQL
 
 ### JS-OOP
 JavaScript Object Oriented Programming
