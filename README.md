@@ -21,6 +21,9 @@ React 2022
 ### nextjs
 Next.js
 
+### Machine Learning & Deep Learning
+Tensorflow.js
+
 ### no specified directory
 POSIX CLI1 \
 Machine learning 1 \
@@ -30,9 +33,6 @@ Machine learning 1 \
 
 ### no specified directory
 리눅스
-
-### Machine Learning & Deep Learning
-Tensorflow.js
 
 ## Plan
 
