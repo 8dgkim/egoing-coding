@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sanitize-html": "^2.4.0"
+    "sanitize-html": "^2.12.1"
   }
 }
