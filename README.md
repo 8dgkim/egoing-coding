@@ -3,32 +3,32 @@
 ## Finished
 
 ### WEB1
-WEB1 - HTML
+- WEB1 - HTML
 
 ### WEB2
-WEB2 - CSS \
-WEB2 - JavaScript
+- WEB2 - CSS
+- WEB2 - JavaScript
 
 ### WEB2-NodeJS
-WEB2 - Node.js
-
-### react-practice
-React (replaced)
+- WEB2 - Node.js
 
 ### react-app
-React 2022
+- React 2022
+
+### react-practice
+- React (replaced)
 
 ### nextjs
-Next.js
+- Next.js
 
 ### Machine Learning & Deep Learning
-Tensorflow.js
+- Tensorflow.js
 
 ### no specified directory
-POSIX CLI1 \
-Machine learning 1 \
-암호학 \
-리눅스
+- POSIX CLI1
+- Machine learning 1
+- 암호학
+- 리눅스
 
 ## In Progress
 
@@ -36,9 +36,9 @@ Machine learning 1 \
 ## Plan
 
 ### Server
-WEB2 - PHP \
-WEB2 - Home Server \
-Server Side JavaScript
+- WEB2 - PHP
+- WEB2 - Home Server
+- Server Side JavaScript
 
 ### Database
-DATABASE2 - MySQL
+- DATABASE2 - MySQL
