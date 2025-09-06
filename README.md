@@ -1,5 +1,23 @@
 # 생활코딩 
 
+## In Progress
+
+
+## Plan
+
+### Server
+- WEB2 - PHP
+- WEB2 - Home Server
+- Server Side JavaScript
+
+### Data
+- DATABASE1
+- DATABASE2 - MySQL
+- SQLite
+- SQL JOIN
+- Oracle Database
+- Airtable
+
 ## Finished
 
 ### WEB1
@@ -22,23 +40,10 @@
 - Next.js
 
 ### Machine Learning & Deep Learning
+- Machine learning 1
 - Tensorflow.js
 
-### no specified directory
+### Extra
 - POSIX CLI1
-- Machine learning 1
 - 암호학
 - 리눅스
-
-## In Progress
-
-
-## Plan
-
-### Server
-- WEB2 - PHP
-- WEB2 - Home Server
-- Server Side JavaScript
-
-### Database
-- DATABASE2 - MySQL
